@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:96ffff,100:5a5aff&height=270&text=halzis'%20github&fontColor=eeeeee&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:96ffff,100:5a5aff&height=270&text=halzis'%20github&fontColor=ffffff&fontSize=60&animation=twinkling)
 <h1 align=center>Welcome👋</h1>
 <br/>
 <div align=center>
